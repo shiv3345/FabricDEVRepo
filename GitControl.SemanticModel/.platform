@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "GitControl"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "e84f6abb-d0d3-ad6d-43de-550c93a558ca"
+  }
+}
